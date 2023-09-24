@@ -1,3 +1,4 @@
+## 100 Questions
 **1. What is NLP?** <br>
 **Answer:** NLP stands for Natural Language Processing, which is a field of AI that focuses on the interaction between humans and computers using natural language.
 
@@ -299,4 +300,11 @@
 
 **100. How do you evaluate the performance of an NLP model, and what metrics are commonly used?**
 <br> **Answer:** NLP model performance is evaluated using metrics like accuracy, precision, recall, F1-score, and, in some cases, domain-specific metrics like BLEU for machine translation.
+
+## Contributions
+Contributions are most welcomed.
+ 1. Fork the repository.
+ 2. Commit your *questions* or *answers*.
+ 3. Open **pull request**.
+
 
